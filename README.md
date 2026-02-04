@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project implements modular components for PubMed text mining using multiple LLMs (Gemma, Phi, Qwen). The focus is on chain-of-thought reasoning, prompt design, and testing individual components.
+This project implements modular components for PubMed text mining using multiple LLMs (Gemma, Phi, Qwen) via Ollama. We used the phi3:mini model for processing. The focus is on chain-of-thought reasoning, prompt design, and testing individual components.
 
 ## Project Structure
 
@@ -45,10 +45,11 @@ python src/model_example.py
 
 ## Key Features
 
-- **Model-agnostic prompts**: Work with Gemma, Phi, and Qwen
+- **Model-agnostic prompts**: Work with Gemma, Phi, and Qwen via Ollama
 - **Modular components**: Separate parsing, schema construction, and model interaction
 - **Comprehensive testing**: Unit tests for all components
 - **Real data**: Uses actual MEDLINE records from PubMed API
+- **Local LLM processing**: Uses Ollama for local model execution
 
 ## Documentation
 
