@@ -1,0 +1,13 @@
+{
+  "processing_date": "2026-02-04T12:21:08.952361",
+  "input_file": "../data/sample_medline.txt",
+  "model_used": "phi3:mini",
+  "total_records": 2,
+  "records_processed": 2,
+  "summary": {
+    "total_diseases": 2,
+    "total_genes": 0,
+    "total_drugs": 0,
+    "total_symptoms": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pmid": "41631282",
+  "title": "Novel Utilization of Circulating Tumor DNA in Primary Dedifferentiated Seminal Vesicle Adenocarcinoma: A Case Report of Molecular Clearance Following Multimodal Therapy.",
+  "abstract": "Primary seminal vesicle adenocarcinoma (PSVA) is an exceptionally rare malignancy, with fewer than 100 cases reported worldwide and poses significant diagnostic and surveillance challenges due to its deep pelvic location, nonspecific clinical manifestations, frequent coexistence with other genitourinary malignancies, and lack of validated serum tumor markers. A 77-year-old male with long-standing lower urinary tract symptoms and mildly elevated prostate-specific antigen was found to have a large (7.4 cm) predominantly cystic pelvic mass replacing the left seminal vesicle on magnetic resonance imaging. Histologic evaluation revealed synchronous high-grade prostate adenocarcinoma and a distinct dedifferentiated carcinoma not arising from prostatic tissue. Comprehensive immunohistochemical analysis supported a diagnosis of PSVA. The patient underwent robotic-assisted radical prostatectomy with en bloc excision of the seminal vesicle mass, rectal repair, and ureteral reimplantation. Postoperatively, prostate-specific antigen remained undetectable; however, tumor-informed circulating tumor DNA (ctDNA) testing detected molecular residual disease. Following completion of radiotherapy, ctDNA became undetectable, and the patient has remained disease-free at nearly 1 year of follow-up. This case highlights the importance of comprehensive imaging, detailed immunohistochemical profiling, and aggressive multimodal management in PSVA, and represents the first documented report of molecular clearance using ctDNA after treatment for this rare malignancy. While causal inference cannot be established from a single case, this report suggests that ctDNA may serve as a promising adjunctive tool for postoperative surveillance in rare urologic cancers lacking reliable serum biomarkers.",
+  "entities": {
+    "diseases": [
+      "primary seminal vesicle adenocarcinoma",
+      "dedifferentiated carcinoma"
+    ],
+    "genes": [],
+    "drugs": [],
+    "symptoms": [
+      "lower urinary tract symptoms"
+    ]
+  }
+}

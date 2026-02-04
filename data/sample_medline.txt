@@ -1,0 +1,199 @@
+
+PMID- 41631282
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260203
+LR  - 20260203
+IS  - 1923-4163 (Electronic)
+IS  - 1923-4155 (Print)
+IS  - 1923-4155 (Linking)
+VI  - 17
+IP  - 2
+DP  - 2026 Feb
+TI  - Novel Utilization of Circulating Tumor DNA in Primary Dedifferentiated Seminal 
+      Vesicle Adenocarcinoma: A Case Report of Molecular Clearance Following Multimodal 
+      Therapy.
+PG  - 62-69
+LID - 10.14740/jmc5238 [doi]
+AB  - Primary seminal vesicle adenocarcinoma (PSVA) is an exceptionally rare 
+      malignancy, with fewer than 100 cases reported worldwide and poses significant 
+      diagnostic and surveillance challenges due to its deep pelvic location, 
+      nonspecific clinical manifestations, frequent coexistence with other 
+      genitourinary malignancies, and lack of validated serum tumor markers. A 
+      77-year-old male with long-standing lower urinary tract symptoms and mildly 
+      elevated prostate-specific antigen was found to have a large (7.4 cm) 
+      predominantly cystic pelvic mass replacing the left seminal vesicle on magnetic 
+      resonance imaging. Histologic evaluation revealed synchronous high-grade prostate 
+      adenocarcinoma and a distinct dedifferentiated carcinoma not arising from 
+      prostatic tissue. Comprehensive immunohistochemical analysis supported a 
+      diagnosis of PSVA. The patient underwent robotic-assisted radical prostatectomy 
+      with en bloc excision of the seminal vesicle mass, rectal repair, and ureteral 
+      reimplantation. Postoperatively, prostate-specific antigen remained undetectable; 
+      however, tumor-informed circulating tumor DNA (ctDNA) testing detected molecular 
+      residual disease. Following completion of radiotherapy, ctDNA became 
+      undetectable, and the patient has remained disease-free at nearly 1 year of 
+      follow-up. This case highlights the importance of comprehensive imaging, detailed 
+      immunohistochemical profiling, and aggressive multimodal management in PSVA, and 
+      represents the first documented report of molecular clearance using ctDNA after 
+      treatment for this rare malignancy. While causal inference cannot be established 
+      from a single case, this report suggests that ctDNA may serve as a promising 
+      adjunctive tool for postoperative surveillance in rare urologic cancers lacking 
+      reliable serum biomarkers.
+CI  - Copyright 2026 Authors.
+FAU - Malshy, Kamil
+AU  - Malshy K
+AUID- ORCID: 0000-0003-4130-8987
+AD  - Department of Urology, University of Rochester Medical Center, Rochester, NY, 
+      USA.
+FAU - Guercio, Brendan J
+AU  - Guercio BJ
+AD  - James P. Wilmot Cancer Institute, University of Rochester, Rochester, NY, USA.
+FAU - Hines, Laena
+AU  - Hines L
+AD  - Department of Urology, University of Rochester Medical Center, Rochester, NY, 
+      USA.
+FAU - Findeis, Sarah K
+AU  - Findeis SK
+AD  - Department of Pathology and Laboratory Medicine, University of Rochester Medical 
+      Center, Rochester, NY, USA.
+FAU - Sutera, Philip A
+AU  - Sutera PA
+AD  - Department of Radiation Oncology, University of Rochester Medical Center, 
+      Rochester, NY, USA.
+FAU - Thomas, Shawn W
+AU  - Thomas SW
+AD  - Florida Urology Center, Ormond Beach, FL, USA.
+FAU - Joseph, Jean V
+AU  - Joseph JV
+AD  - Department of Urology, University of Rochester Medical Center, Rochester, NY, 
+      USA.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20260113
+PL  - Canada
+TA  - J Med Cases
+JT  - Journal of medical cases
+JID - 101551824
+PMC - PMC12861512
+OTO - NOTNLM
+OT  - Adenocarcinoma
+OT  - Biomarker
+OT  - Prostate
+OT  - Seminal vesicles
+OT  - ctDNA
+COIS- None to declare.
+EDAT- 2026/02/03 13:34
+MHDA- 2026/02/03 13:35
+PMCR- 2026/01/13
+CRDT- 2026/02/03 04:21
+PHST- 2025/10/20 00:00 [received]
+PHST- 2025/12/30 00:00 [accepted]
+PHST- 2026/02/03 13:35 [medline]
+PHST- 2026/02/03 13:34 [pubmed]
+PHST- 2026/02/03 04:21 [entrez]
+PHST- 2026/01/13 00:00 [pmc-release]
+AID - 10.14740/jmc5238 [doi]
+PST - epublish
+SO  - J Med Cases. 2026 Jan 13;17(2):62-69. doi: 10.14740/jmc5238. eCollection 2026 
+      Feb.
+
+PMID- 41631234
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260203
+LR  - 20260203
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 17
+IP  - 12
+DP  - 2025 Dec
+TI  - A Pilot Trial of Two-Fraction Stereotactic Body Radiation Therapy for Localized 
+      Prostate Cancer.
+PG  - e100519
+LID - 10.7759/cureus.100519 [doi]
+LID - e100519
+AB  - OBJECTIVES:  Ultra-hypofractionated radiation is a widely adopted treatment for 
+      low- and intermediate-risk prostate cancer and is typically given for a duration 
+      of five treatments in the United States. There is interest in developing a 
+      shorter two-treatment course. We conducted a pilot study of two-fraction 
+      ultra-hypofractionated radiation therapy for low- to intermediate-risk prostate 
+      cancer to determine safety and preliminary efficacy. METHODS:  A total of 12 
+      patients were prospectively enrolled in a single-arm pilot study of two-fraction 
+      ultra-hypofractionated radiation therapy. Patients were treated with 12.5 Gy in 
+      two fractions separated by 2-3 days. All patients had placement of a rectal 
+      spacer. Biochemical response was evaluated with prostate-specific antigen (PSA) 
+      monitoring, with recurrence defined using the American Society for Therapeutic 
+      Radiology and Oncology (ASTRO) Phoenix criteria. Toxicity was graded using the 
+      Common Terminology Criteria for Adverse Events (CTCAE) v5.0. RESULTS:  Median 
+      follow-up was 4.8 years. This cohort consisted of National Comprehensive Cancer 
+      Network (NCCN) intermediate-risk patients (seven NCCN favorable intermediate and 
+      five NCCN unfavorable intermediate). The median prostate volume was 30 cc. The 
+      median PSA nadir was 0.14 (range <0.01 to 0.82). No patient experienced a 
+      biochemical recurrence. No patient experienced grade 2 or worse gastrointestinal 
+      (GI) acute or late toxicity. Three of the 12 patients experienced acute grade 2 
+      genitourinary (GU) toxicity, and two of the 12 patients experienced late grade 2 
+      toxicity. No patient experienced grade 3 toxicity. CONCLUSIONS:  Two-fraction 
+      ultra-hypofractionated radiation to 25 Gy is tolerable with a low rate of 
+      long-term toxicity and promising biochemical control. Further research is 
+      indicated to evaluate two-fraction regimens for prostate radiation.
+CI  - Copyright (c) 2025, Shen et al.
+FAU - Shen, Xinglei
+AU  - Shen X
+AD  - Radiation Oncology, University of Kansas Medical Center, Kansas City, USA.
+FAU - Chen, Matthew
+AU  - Chen M
+AD  - Radiation Oncology, University of Kansas Medical Center, Kansas City, USA.
+FAU - Cao, Ying
+AU  - Cao Y
+AD  - Radiation Oncology, University of Kansas Medical Center, Kansas City, USA.
+FAU - Schroeder, Amanda
+AU  - Schroeder A
+AD  - Radiation Oncology, University of Kansas Medical Center, Kansas City, USA.
+FAU - Miller, Leah
+AU  - Miller L
+AD  - Radiation Oncology, University of Kansas Medical Center, Kansas City, USA.
+FAU - Shiao, Jay C
+AU  - Shiao JC
+AD  - Radiation Oncology, University of Kansas Medical Center, Kansas City, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20251231
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC12860568
+OTO - NOTNLM
+OT  - clinical trial
+OT  - pilot
+OT  - prostate cancer
+OT  - stereotactic body radiation therapy (sbrt)
+OT  - ultra-hypofractionated radiation
+COIS- Human subjects: Informed consent for treatment and open access publication was 
+      obtained or waived by all participants in this study. University of Kansas 
+      Medical Center Institutional Review Board (IRB) issued approval 141963. Animal 
+      subjects: All authors have confirmed that this study did not involve animal 
+      subjects or tissue. Conflicts of interest: In compliance with the ICMJE uniform 
+      disclosure form, all authors declare the following: Payment/services info: All 
+      authors have declared that no financial support was received from any 
+      organization for the submitted work. Financial relationships: All authors have 
+      declared that they have no financial relationships at present or within the 
+      previous three years with any organizations that might have an interest in the 
+      submitted work. Other relationships: All authors have declared that there are no 
+      other relationships or activities that could appear to have influenced the 
+      submitted work.
+EDAT- 2026/02/03 13:34
+MHDA- 2026/02/03 13:35
+PMCR- 2025/12/31
+CRDT- 2026/02/03 04:20
+PHST- 2025/12/28 00:00 [accepted]
+PHST- 2026/02/03 13:35 [medline]
+PHST- 2026/02/03 13:34 [pubmed]
+PHST- 2026/02/03 04:20 [entrez]
+PHST- 2025/12/31 00:00 [pmc-release]
+AID - 10.7759/cureus.100519 [doi]
+PST - epublish
+SO  - Cureus. 2025 Dec 31;17(12):e100519. doi: 10.7759/cureus.100519. eCollection 2025 
+      Dec.

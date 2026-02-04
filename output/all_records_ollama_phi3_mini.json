@@ -1,0 +1,29 @@
+[
+  {
+    "pmid": "41631282",
+    "title": "Novel Utilization of Circulating Tumor DNA in Primary Dedifferentiated Seminal Vesicle Adenocarcinoma: A Case Report of Molecular Clearance Following Multimodal Therapy.",
+    "abstract": "Primary seminal vesicle adenocarcinoma (PSVA) is an exceptionally rare malignancy, with fewer than 100 cases reported worldwide and poses significant diagnostic and surveillance challenges due to its deep pelvic location, nonspecific clinical manifestations, frequent coexistence with other genitourinary malignancies, and lack of validated serum tumor markers. A 77-year-old male with long-standing lower urinary tract symptoms and mildly elevated prostate-specific antigen was found to have a large (7.4 cm) predominantly cystic pelvic mass replacing the left seminal vesicle on magnetic resonance imaging. Histologic evaluation revealed synchronous high-grade prostate adenocarcinoma and a distinct dedifferentiated carcinoma not arising from prostatic tissue. Comprehensive immunohistochemical analysis supported a diagnosis of PSVA. The patient underwent robotic-assisted radical prostatectomy with en bloc excision of the seminal vesicle mass, rectal repair, and ureteral reimplantation. Postoperatively, prostate-specific antigen remained undetectable; however, tumor-informed circulating tumor DNA (ctDNA) testing detected molecular residual disease. Following completion of radiotherapy, ctDNA became undetectable, and the patient has remained disease-free at nearly 1 year of follow-up. This case highlights the importance of comprehensive imaging, detailed immunohistochemical profiling, and aggressive multimodal management in PSVA, and represents the first documented report of molecular clearance using ctDNA after treatment for this rare malignancy. While causal inference cannot be established from a single case, this report suggests that ctDNA may serve as a promising adjunctive tool for postoperative surveillance in rare urologic cancers lacking reliable serum biomarkers.",
+    "entities": {
+      "diseases": [
+        "primary seminal vesicle adenocarcinoma",
+        "dedifferentiated carcinoma"
+      ],
+      "genes": [],
+      "drugs": [],
+      "symptoms": [
+        "lower urinary tract symptoms"
+      ]
+    }
+  },
+  {
+    "pmid": "41631234",
+    "title": "A Pilot Trial of Two-Fraction Stereotactic Body Radiation Therapy for Localized Prostate Cancer.",
+    "abstract": "OBJECTIVES:  Ultra-hypofractionated radiation is a widely adopted treatment for low- and intermediate-risk prostate cancer and is typically given for a duration of five treatments in the United States. There is interest in developing a shorter two-treatment course. We conducted a pilot study of two-fraction ultra-hypofractionated radiation therapy for low- to intermediate-risk prostate cancer to determine safety and preliminary efficacy. METHODS:  A total of 12 patients were prospectively enrolled in a single-arm pilot study of two-fraction ultra-hypofractionated radiation therapy. Patients were treated with 12.5 Gy in two fractions separated by 2-3 days. All patients had placement of a rectal spacer. Biochemical response was evaluated with prostate-specific antigen (PSA) monitoring, with recurrence defined using the American Society for Therapeutic Radiology and Oncology (ASTRO) Phoenix criteria. Toxicity was graded using the Common Terminology Criteria for Adverse Events (CTCAE) v5.0. RESULTS:  Median follow-up was 4.8 years. This cohort consisted of National Comprehensive Cancer Network (NCCN) intermediate-risk patients (seven NCCN favorable intermediate and five NCCN unfavorable intermediate). The median prostate volume was 30 cc. The median PSA nadir was 0.14 (range <0.01 to 0.82). No patient experienced a biochemical recurrence. No patient experienced grade 2 or worse gastrointestinal (GI) acute or late toxicity. Three of the 12 patients experienced acute grade 2 genitourinary (GU) toxicity, and two of the 12 patients experienced late grade 2 toxicity. No patient experienced grade 3 toxicity. CONCLUSIONS:  Two-fraction ultra-hypofractionated radiation to 25 Gy is tolerable with a low rate of long-term toxicity and promising biochemical control. Further research is indicated to evaluate two-fraction regimens for prostate radiation.",
+    "entities": {
+      "diseases": [],
+      "genes": [],
+      "drugs": [],
+      "symptoms": []
+    }
+  }
+]
